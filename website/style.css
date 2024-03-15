@@ -96,7 +96,7 @@ header .fa-bars{
 }
 .about{
     min-height: 100vh;
-    background-color:#fff, url(.../D:\Nikitha\ik\webdevelopment);
+    background-color:#fff;
     background-size: cover;
     background-position: fixed;
     z-index: 0;
